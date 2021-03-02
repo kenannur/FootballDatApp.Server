@@ -1,0 +1,109 @@
+{
+    "head2head": {
+        "numberOfMatches": 5,
+        "totalGoals": 15,
+        "homeTeam": {
+            "id": 81,
+            "name": "FC Barcelona",
+            "wins": 4,
+            "draws": 1,
+            "losses": 0
+        },
+        "awayTeam": {
+            "id": 285,
+            "name": "Elche CF",
+            "wins": 0,
+            "draws": 1,
+            "losses": 4
+        }
+    },
+    "match": {
+        "id": 308326,
+        "competition": {
+            "id": 2014,
+            "name": "Primera Division",
+            "area": {
+                "name": "Spain",
+                "code": "ESP",
+                "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg"
+            }
+        },
+        "season": {
+            "id": 635,
+            "startDate": "2020-09-13",
+            "endDate": "2021-05-23",
+            "currentMatchday": 24,
+            "winner": null
+        },
+        "utcDate": "2021-02-24T18:00:00Z",
+        "status": "IN_PLAY",
+        "venue": "Camp Nou",
+        "matchday": 1,
+        "stage": "REGULAR_SEASON",
+        "group": "Regular Season",
+        "lastUpdated": "2021-02-24T18:45:49Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 81,
+            "name": "FC Barcelona"
+        },
+        "awayTeam": {
+            "id": 285,
+            "name": "Elche CF"
+        },
+        "referees": [
+            {
+                "id": 57930,
+                "name": "Isidro Díaz de Mera",
+                "role": "MAIN_REFEREE",
+                "nationality": "Spain"
+            },
+            {
+                "id": 56958,
+                "name": "Rubén Becerril",
+                "role": "ASSISTANT_N1",
+                "nationality": "Spain"
+            },
+            {
+                "id": 56954,
+                "name": "José Escuela",
+                "role": "ASSISTANT_N2",
+                "nationality": "Spain"
+            },
+            {
+                "id": 58133,
+                "name": "Antonio Abril",
+                "role": "FOURTH_OFFICIAL",
+                "nationality": "Spain"
+            },
+            {
+                "id": 57921,
+                "name": "Valentín Pizarro",
+                "role": "VIDEO_ASSISTANT_REFEREE",
+                "nationality": "Spain"
+            }
+        ]
+    }
+}

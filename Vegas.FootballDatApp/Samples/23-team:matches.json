@@ -1,0 +1,2986 @@
+{
+    "count": 38,
+    "filters": {
+        "permission": "TIER_ONE",
+        "limit": 100
+    },
+    "matches": [
+        {
+            "id": 303759,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-09-12T11:30:00Z",
+            "status": "FINISHED",
+            "matchday": 1,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-09-13T00:08:13Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 3
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 63,
+                "name": "Fulham FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": [
+                {
+                    "id": 11443,
+                    "name": "Chris Kavanagh",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11438,
+                    "name": "Dan Cook",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 98555,
+                    "name": "Sian Massey-Ellis",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11487,
+                    "name": "Kevin Friend",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11556,
+                    "name": "David Coote",
+                    "role": "REF",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303770,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-09-19T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 2,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-09-20T10:25:15Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 563,
+                "name": "West Ham United FC"
+            },
+            "referees": [
+                {
+                    "id": 11605,
+                    "name": "Michael Oliver",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11564,
+                    "name": "Stuart Burt",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11756,
+                    "name": "Stephen Bennett",
+                    "role": "REF",
+                    "nationality": null
+                },
+                {
+                    "id": 11469,
+                    "name": "Darren England",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11443,
+                    "name": "Chris Kavanagh",
+                    "role": "REF",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303778,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-09-28T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 3,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-09-28T23:59:36Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 64,
+                "name": "Liverpool FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": [
+                {
+                    "id": 11585,
+                    "name": "Craig Pawson",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11530,
+                    "name": "Lee Betts",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11586,
+                    "name": "Richard West",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11580,
+                    "name": "Anthony Taylor",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11610,
+                    "name": "Andre Marriner",
+                    "role": "REF",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303790,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-10-04T13:00:00Z",
+            "status": "FINISHED",
+            "matchday": 4,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-11-14T08:35:42Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 356,
+                "name": "Sheffield United FC"
+            },
+            "referees": [
+                {
+                    "id": 11479,
+                    "name": "Lee Mason",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11521,
+                    "name": "Mark Scholes",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11461,
+                    "name": "Tim Wood",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11446,
+                    "name": "Robert Jones",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11610,
+                    "name": "Andre Marriner",
+                    "role": "REF",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303797,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-10-17T16:30:00Z",
+            "status": "FINISHED",
+            "matchday": 5,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-11-14T08:35:42Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 65,
+                "name": "Manchester City FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": [
+                {
+                    "id": 11443,
+                    "name": "Chris Kavanagh",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 98555,
+                    "name": "Sian Massey-Ellis",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11606,
+                    "name": "Constantine Hatzidakis",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11580,
+                    "name": "Anthony Taylor",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11494,
+                    "name": "Stuart Attwell",
+                    "role": "REF",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303811,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-10-25T19:15:00Z",
+            "status": "FINISHED",
+            "matchday": 6,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-11-14T08:35:43Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 338,
+                "name": "Leicester City FC"
+            },
+            "referees": [
+                {
+                    "id": 11585,
+                    "name": "Craig Pawson",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11495,
+                    "name": "Ian Hussin",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11570,
+                    "name": "Harry Lennard",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11503,
+                    "name": "Graham Scott",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11520,
+                    "name": "Paul Tierney",
+                    "role": "REF",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303823,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-11-01T16:30:00Z",
+            "status": "FINISHED",
+            "matchday": 7,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-11-14T08:35:44Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 66,
+                "name": "Manchester United FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": [
+                {
+                    "id": 11575,
+                    "name": "Mike Dean",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11495,
+                    "name": "Ian Hussin",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11431,
+                    "name": "Daniel Robathan",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11580,
+                    "name": "Anthony Taylor",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11309,
+                    "name": "Peter Bankes",
+                    "role": "REF",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303828,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-11-08T19:15:00Z",
+            "status": "FINISHED",
+            "matchday": 8,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-11-09T01:30:05Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 3
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 58,
+                "name": "Aston Villa FC"
+            },
+            "referees": [
+                {
+                    "id": 11551,
+                    "name": "Martin Atkinson",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11606,
+                    "name": "Constantine Hatzidakis",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11425,
+                    "name": "Nicholas Hopton",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11503,
+                    "name": "Graham Scott",
+                    "role": "REF",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11556,
+                    "name": "David Coote",
+                    "role": "REF",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303846,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-11-22T16:30:00Z",
+            "status": "FINISHED",
+            "matchday": 9,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-11-23T02:15:05Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 341,
+                "name": "Leeds United FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": [
+                {
+                    "id": 11580,
+                    "name": "Anthony Taylor",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11581,
+                    "name": "Gary Beswick",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11615,
+                    "name": "Adam Nunn",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11309,
+                    "name": "Peter Bankes",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11494,
+                    "name": "Stuart Attwell",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303848,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-11-29T19:15:00Z",
+            "status": "FINISHED",
+            "matchday": 10,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-11-30T02:20:05Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 2
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 2
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 76,
+                "name": "Wolverhampton Wanderers FC"
+            },
+            "referees": [
+                {
+                    "id": 11605,
+                    "name": "Michael Oliver",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11564,
+                    "name": "Stuart Burt",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11488,
+                    "name": "Simon Bennett",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11556,
+                    "name": "David Coote",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11610,
+                    "name": "Andre Marriner",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303861,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-12-06T16:30:00Z",
+            "status": "FINISHED",
+            "matchday": 11,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-12-07T03:25:04Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 73,
+                "name": "Tottenham Hotspur FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": [
+                {
+                    "id": 11551,
+                    "name": "Martin Atkinson",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11615,
+                    "name": "Adam Nunn",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11606,
+                    "name": "Constantine Hatzidakis",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11610,
+                    "name": "Andre Marriner",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11487,
+                    "name": "Kevin Friend",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303870,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-12-13T19:15:00Z",
+            "status": "FINISHED",
+            "matchday": 12,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-12-30T14:35:23Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 328,
+                "name": "Burnley FC"
+            },
+            "referees": [
+                {
+                    "id": 11503,
+                    "name": "Graham Scott",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11424,
+                    "name": "Neil Davies",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11586,
+                    "name": "Richard West",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11494,
+                    "name": "Stuart Attwell",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11556,
+                    "name": "David Coote",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303880,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-12-16T18:00:00Z",
+            "status": "FINISHED",
+            "matchday": 13,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-12-17T01:05:02Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 340,
+                "name": "Southampton FC"
+            },
+            "referees": [
+                {
+                    "id": 11520,
+                    "name": "Paul Tierney",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11438,
+                    "name": "Dan Cook",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 98555,
+                    "name": "Sian Massey-Ellis",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11610,
+                    "name": "Andre Marriner",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11585,
+                    "name": "Craig Pawson",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303890,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-12-19T17:30:00Z",
+            "status": "FINISHED",
+            "matchday": 14,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-12-30T14:35:24Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 62,
+                "name": "Everton FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": [
+                {
+                    "id": 11610,
+                    "name": "Andre Marriner",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11611,
+                    "name": "Scott Ledger",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11504,
+                    "name": "Simon Long",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11520,
+                    "name": "Paul Tierney",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11605,
+                    "name": "Michael Oliver",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303902,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-12-26T17:30:00Z",
+            "status": "FINISHED",
+            "matchday": 15,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-12-26T22:15:08Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 61,
+                "name": "Chelsea FC"
+            },
+            "referees": [
+                {
+                    "id": 11605,
+                    "name": "Michael Oliver",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11564,
+                    "name": "Stuart Burt",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11488,
+                    "name": "Simon Bennett",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11494,
+                    "name": "Stuart Attwell",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11520,
+                    "name": "Paul Tierney",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303916,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2020-12-29T18:00:00Z",
+            "status": "FINISHED",
+            "matchday": 16,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-12-30T02:10:02Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 397,
+                "name": "Brighton & Hove Albion FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": [
+                {
+                    "id": 11551,
+                    "name": "Martin Atkinson",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11615,
+                    "name": "Adam Nunn",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11495,
+                    "name": "Ian Hussin",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11327,
+                    "name": "John Brooks",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11494,
+                    "name": "Stuart Attwell",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303921,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-01-02T20:00:00Z",
+            "status": "FINISHED",
+            "matchday": 17,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2021-01-03T01:35:03Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 4
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 2
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 74,
+                "name": "West Bromwich Albion FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": [
+                {
+                    "id": 11551,
+                    "name": "Martin Atkinson",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11576,
+                    "name": "Darren Cann",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11570,
+                    "name": "Harry Lennard",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11469,
+                    "name": "Darren England",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11567,
+                    "name": "Jonathan Moss",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303930,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-01-14T20:00:00Z",
+            "status": "FINISHED",
+            "matchday": 18,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2021-01-15T01:40:01Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 354,
+                "name": "Crystal Palace FC"
+            },
+            "referees": [
+                {
+                    "id": 11610,
+                    "name": "Andre Marriner",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11611,
+                    "name": "Scott Ledger",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11504,
+                    "name": "Simon Long",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11430,
+                    "name": "Simon Hooper",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11503,
+                    "name": "Graham Scott",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11606,
+                    "name": "Constantine Hatzidakis",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303942,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-01-18T20:00:00Z",
+            "status": "FINISHED",
+            "matchday": 19,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2021-01-19T02:15:01Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 67,
+                "name": "Newcastle United FC"
+            },
+            "referees": [
+                {
+                    "id": 11556,
+                    "name": "David Coote",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11531,
+                    "name": "Marc Perry",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11425,
+                    "name": "Nicholas Hopton",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11503,
+                    "name": "Graham Scott",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11309,
+                    "name": "Peter Bankes",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303955,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-01-26T20:15:00Z",
+            "status": "FINISHED",
+            "matchday": 20,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2021-01-27T02:45:01Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 3
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 2
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 340,
+                "name": "Southampton FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": [
+                {
+                    "id": 11487,
+                    "name": "Kevin Friend",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11544,
+                    "name": "Simon Beck",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11480,
+                    "name": "Eddie Smart",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11519,
+                    "name": "Keith Stroud",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11446,
+                    "name": "Robert Jones",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303958,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-01-30T17:30:00Z",
+            "status": "FINISHED",
+            "matchday": 21,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2021-01-31T11:00:04Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 66,
+                "name": "Manchester United FC"
+            },
+            "referees": [
+                {
+                    "id": 11605,
+                    "name": "Michael Oliver",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11564,
+                    "name": "Stuart Burt",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11488,
+                    "name": "Simon Bennett",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11446,
+                    "name": "Robert Jones",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11520,
+                    "name": "Paul Tierney",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303967,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-02-02T18:00:00Z",
+            "status": "FINISHED",
+            "matchday": 22,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2021-02-03T01:25:01Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 76,
+                "name": "Wolverhampton Wanderers FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": [
+                {
+                    "id": 11575,
+                    "name": "Mike Dean",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11495,
+                    "name": "Ian Hussin",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11576,
+                    "name": "Darren Cann",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11479,
+                    "name": "Lee Mason",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11503,
+                    "name": "Graham Scott",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11585,
+                    "name": "Craig Pawson",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11438,
+                    "name": "Dan Cook",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11552,
+                    "name": "Peter Kirkup",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11556,
+                    "name": "David Coote",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11567,
+                    "name": "Jonathan Moss",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303979,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-02-06T12:30:00Z",
+            "status": "FINISHED",
+            "matchday": 23,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2021-02-07T11:50:14Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 58,
+                "name": "Aston Villa FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": [
+                {
+                    "id": 11443,
+                    "name": "Chris Kavanagh",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11438,
+                    "name": "Dan Cook",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11606,
+                    "name": "Constantine Hatzidakis",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11469,
+                    "name": "Darren England",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11556,
+                    "name": "David Coote",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 303988,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-02-14T16:30:00Z",
+            "status": "FINISHED",
+            "matchday": 24,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2021-02-15T00:15:04Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 4,
+                    "awayTeam": 2
+                },
+                "halfTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 341,
+                "name": "Leeds United FC"
+            },
+            "referees": [
+                {
+                    "id": 11494,
+                    "name": "Stuart Attwell",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11438,
+                    "name": "Dan Cook",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11504,
+                    "name": "Simon Long",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11430,
+                    "name": "Simon Hooper",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11610,
+                    "name": "Andre Marriner",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 304001,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-02-21T16:30:00Z",
+            "status": "FINISHED",
+            "matchday": 25,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2021-02-22T02:30:04Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 65,
+                "name": "Manchester City FC"
+            },
+            "referees": [
+                {
+                    "id": 11567,
+                    "name": "Jonathan Moss",
+                    "role": "MAIN_REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11531,
+                    "name": "Marc Perry",
+                    "role": "ASSISTANT_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11431,
+                    "name": "Daniel Robathan",
+                    "role": "ASSISTANT_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11423,
+                    "name": "Andy Madley",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11309,
+                    "name": "Peter Bankes",
+                    "role": "VIDEO_ASSISTANT_REFEREE",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 304014,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-02-28T12:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2021-01-29T19:35:41Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 338,
+                "name": "Leicester City FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 304024,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-03-06T12:30:00Z",
+            "status": "SCHEDULED",
+            "matchday": 27,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2021-02-19T19:36:07Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 328,
+                "name": "Burnley FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 304030,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-03-14T16:30:00Z",
+            "status": "SCHEDULED",
+            "matchday": 28,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2021-02-19T19:36:08Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 73,
+                "name": "Tottenham Hotspur FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 304044,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-03-21T15:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 29,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2021-02-19T19:36:09Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 563,
+                "name": "West Ham United FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 304050,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-04-03T14:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 30,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-10-02T19:35:41Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 64,
+                "name": "Liverpool FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 304062,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-04-10T14:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 31,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-10-02T19:35:42Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 356,
+                "name": "Sheffield United FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 304070,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-04-17T14:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 32,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-10-02T19:35:43Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 63,
+                "name": "Fulham FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 304082,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-04-24T14:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 33,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-10-02T19:35:43Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 62,
+                "name": "Everton FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 304087,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-05-01T14:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 34,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-10-02T19:35:44Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 67,
+                "name": "Newcastle United FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 304102,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-05-08T14:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 35,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-10-02T19:35:45Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 74,
+                "name": "West Bromwich Albion FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 304113,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-05-12T18:45:00Z",
+            "status": "SCHEDULED",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-10-02T19:35:46Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 61,
+                "name": "Chelsea FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 304125,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-05-15T14:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 37,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-10-02T19:35:46Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 354,
+                "name": "Crystal Palace FC"
+            },
+            "awayTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "referees": []
+        },
+        {
+            "id": 304132,
+            "competition": {
+                "id": 2021,
+                "name": "Premier League",
+                "area": {
+                    "name": "England",
+                    "code": "ENG",
+                    "ensignUrl": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+                }
+            },
+            "season": {
+                "id": 619,
+                "startDate": "2020-09-12",
+                "endDate": "2021-05-23",
+                "currentMatchday": 25,
+                "winner": null
+            },
+            "utcDate": "2021-05-23T15:00:00Z",
+            "status": "SCHEDULED",
+            "matchday": 38,
+            "stage": "REGULAR_SEASON",
+            "group": "Regular Season",
+            "lastUpdated": "2020-10-02T19:35:47Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "halfTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 397,
+                "name": "Brighton & Hove Albion FC"
+            },
+            "referees": []
+        }
+    ]
+}
